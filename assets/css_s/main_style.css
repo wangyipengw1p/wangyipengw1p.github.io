@@ -301,6 +301,14 @@ name {
   font-size: 32px;
 }
 
+.codeax{
+  color: #1772d0;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: relative;
+  text-align: center;
+}
 .footnote{
   color: #8a8a8a;
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
