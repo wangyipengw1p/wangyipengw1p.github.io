@@ -307,7 +307,8 @@ name {
   font-size: 14px;
   font-weight: 700;
   position: relative;
-  text-align: center;
+  /*text-align: center;*/
+  padding-left: 34%;
 }
 .footnote{
   color: #8a8a8a;
