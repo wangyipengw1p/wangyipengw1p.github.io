@@ -1,0 +1,378 @@
+<!-- Still waiting for PhD offer ... (TAT) I'm a motivated student (TAT) -->
+<html>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154574403-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154574403-1');
+</script>
+
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1"> <!--   for smartphone screen -->
+  <title>Yipeng Wang</title>
+  <link rel="shortcut icon" href="images/site.png" />
+
+  <link href='assets/css_s/bootstrap.min.css' rel='stylesheet'>
+  <link href='assets/css_s/main_style.css' rel='stylesheet'>
+
+  <link href='https://fonts.googleapis.com/css?family=Nunito:200,300,400,500,600,700,800,900,100italic,100,300italic,400italic,500italic,900italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Lato:200,300,400,500,600,700,800,900,100italic,100,300italic,400italic,500italic,900italic,700italic' rel='stylesheet' type='text/css'>
+</head>
+<body>
+  <div id='header' class ='bg'>
+    <div id='header-inner'>
+      <img src='images/blue_square.png' class='img-circle img-profile'>
+      <div class='header-text'>
+        <div class='header-text-name'>
+            Yipeng Wang
+        </div>
+        <!--   <div class='header-text-email'>
+        </div> -->
+
+        <div class='header-text-items'>
+          <ul class="icons">
+            <li title="Github"><a href="https://github.com/wangyipengw1p"><svg t="1576320899470" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1952" width="25" height="25"><path d="M512 12.64c-282.752 0-512 229.216-512 512 0 226.208 146.72 418.144 350.144 485.824 25.6 4.736 35.008-11.104 35.008-24.64 0-12.192-0.48-52.544-0.704-95.328-142.464 30.976-172.512-60.416-172.512-60.416-23.296-59.168-56.832-74.912-56.832-74.912-46.464-31.776 3.52-31.136 3.52-31.136 51.392 3.616 78.464 52.768 78.464 52.768 45.664 78.272 119.776 55.648 148.992 42.56 4.576-33.088 17.856-55.68 32.512-68.48-113.728-12.928-233.28-56.864-233.28-253.024 0-55.904 20-101.568 52.768-137.44-5.312-12.896-22.848-64.96 4.96-135.488 0 0 43.008-13.76 140.832 52.48 40.832-11.36 84.64-17.024 128.16-17.248 43.488 0.192 87.328 5.888 128.256 17.248 97.728-66.24 140.64-52.48 140.64-52.48 27.872 70.528 10.336 122.592 5.024 135.488 32.832 35.84 52.704 81.536 52.704 137.44 0 196.64-119.776 239.936-233.792 252.64 18.368 15.904 34.72 47.04 34.72 94.816 0 68.512-0.608 123.648-0.608 140.512 0 13.632 9.216 29.6 35.168 24.576 203.328-67.776 349.856-259.616 349.856-485.76 0-282.784-229.248-512-512-512z" p-id="1953" fill="#e6e6e6"></path></svg></a></li>
+            <!--
+            <li><a href="https://www.linkedin.com/in/yipengwang-jacob/"><svg t="1576322210005" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4699" width="23" height="23"><path d="M872.405333 872.618667h-151.637333v-237.610667c0-56.661333-1.152-129.578667-79.018667-129.578667-79.061333 0-91.136 61.653333-91.136 125.397334v241.792H398.976V384h145.664v66.602667h1.962667c20.352-38.4 69.845333-78.933333 143.786666-78.933334 153.642667 0 182.058667 101.12 182.058667 232.746667v268.202667zM227.712 317.141333a87.978667 87.978667 0 0 1-88.021333-88.106666 88.064 88.064 0 1 1 88.021333 88.106666z m76.032 555.477334H151.68V384h152.064v488.618667zM948.266667 0H75.562667C33.792 0 0 33.024 0 73.770667v876.458666C0 991.018667 33.792 1024 75.562667 1024h872.576C989.866667 1024 1024 991.018667 1024 950.229333V73.770667C1024 33.024 989.866667 0 948.138667 0h0.128z" fill="#e6e6e6" p-id="4700"></path></svg></a></li>
+            -->
+            <li title="CV"><a href="data/CV.pdf"><svg t="1576321026741" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3853" width="25" height="25"><path d="M895.919113 330.440559a66.552546 66.552546 0 0 0-18.023453-39.491257L682.440047 85.462684a66.545379 66.545379 0 0 0-38.696722-19.986241 66.515686 66.515686 0 0 0-9.524182-0.697266H194.861759c-36.755435 0-66.550498 29.796087-66.550498 66.550498v761.34065c0 36.755435 29.796087 66.550498 66.550498 66.550498h634.811974c36.755435 0 66.550498-29.796087 66.550498-66.550498V336.816293c0.001024-2.137873-0.102389-4.264482-0.305118-6.375734zM690.18062 160.98037v-0.054266l117.069 123.07716H721.214584c-17.112195 0-31.033964-13.921769-31.033964-31.033965v-91.988929zM849.786936 892.670325c0 11.090726-9.022477 20.113203-20.113203 20.113203H194.861759c-11.090726 0-20.113203-9.022477-20.113203-20.113203v-761.34065c0-11.090726 9.022477-20.113203 20.113203-20.113203h439.357384c3.342986 0 6.617371 0.856992 9.524182 2.418417v139.335434c0 42.78612 34.685139 77.471259 77.471259 77.47126h127.519798a20.092726 20.092726 0 0 1 1.053578 6.375733v555.853009z" fill="#e6e6e6" p-id="3854"></path><path d="M492.75198 305.185403a82.773961 82.773961 0 0 0 4.139568-25.954469c0-44.357784-34.792647-80.324828-77.6402-80.324827-42.959157 0-77.751804 35.967044-77.751804 80.324827 0 9.117699 1.453917 17.78796 4.194858 25.954469a13.757947 13.757947 0 0 0-7.830675 12.529285l-0.056313-0.056314c0 7.719071 5.985634 13.872622 13.257267 13.872623h0.27952c2.797255 36.246564 32.051706 72.549442 67.907147 72.549442 35.799126 0 65.054602-36.302878 67.850833-72.549442h0.22423c7.383237 0 13.312557-6.153551 13.312557-13.816309 0-5.593486-3.243669-10.348409-7.886988-12.529285zM254.127314 532.791015h330.137488c4.026941 0 7.271634-3.132065 7.271634-7.048426v-25.227511a6.934775 6.934775 0 0 0-2.23719-5.034444 248.917785 248.917785 0 0 0-112.097013-61.362471 7.095525 7.095525 0 0 0-3.467899-0.838562h-3.747421a6.983922 6.983922 0 0 0-3.412609 0.783272 106.054042 106.054042 0 0 1-47.321932 10.403699c-17.563729 0-34.792647-3.803734-47.378246-10.403699a7.277777 7.277777 0 0 0-3.356296-0.783272h-2.797255c-0.559041 0-1.119107 0-1.678148 0.167917a248.638265 248.638265 0 0 0-114.949557 62.033116 6.938871 6.938871 0 0 0-2.1819 5.034444v25.171197c0 3.971651 3.244693 7.103716 7.271634 7.103717h-0.05529zM246.91097 648.393812c0-12.82314 10.395508-23.218648 23.218647-23.218648h513.192827c12.82314 0 23.218648 10.395508 23.218647 23.218648s-10.395508 23.218648-23.218647 23.218647H270.129617c-12.82314 0-23.218648-10.395508-23.218647-23.218647zM246.91097 777.39722c0-12.82314 10.395508-23.218648 23.218647-23.218648h513.192827c12.82314 0 23.218648 10.395508 23.218647 23.218648s-10.395508 23.218648-23.218647 23.218647H270.129617c-12.82314 0-23.218648-10.395508-23.218647-23.218647z" fill="#e6e6e6" p-id="3855"></path></svg></a></li>
+            <li title="mailto:wangyipengv@outlook.com"><a href="mailto:wangyipengv@outlook.com"><svg t="1576333073556" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1390" width="24" height="24"><path d="M894.886957 113.530435 129.113043 113.530435c-69.008696 0-126.886957 57.878261-126.886957 126.886957l0 540.93913c0 69.008696 57.878261 126.886957 126.886957 126.886957l763.547826 0c69.008696 0 126.886957-57.878261 126.886957-126.886957L1019.547826 240.417391C1021.773913 171.408696 963.895652 113.530435 894.886957 113.530435L894.886957 113.530435zM957.217391 814.747826c0 20.034783-13.356522 31.165217-31.165217 31.165217L97.947826 845.913043C80.13913 845.913043 66.782609 832.556522 66.782609 814.747826L66.782609 209.252174C66.782609 191.443478 80.13913 178.086957 97.947826 178.086957l828.104348 0C943.86087 178.086957 957.217391 191.443478 957.217391 209.252174L957.217391 814.747826 957.217391 814.747826zM808.069565 311.652174 534.26087 540.93913c-13.356522 13.356522-31.165217 13.356522-46.747826 0L213.704348 311.652174c-13.356522-8.904348-31.165217-8.904348-42.295652 2.226087-13.356522 13.356522-13.356522 35.617391 2.226087 46.747826l309.426087 258.226087c15.582609 13.356522 42.295652 13.356522 57.878261 0l309.426087-258.226087c13.356522-13.356522 15.582609-35.617391 2.226087-46.747826C839.234783 302.747826 821.426087 302.747826 808.069565 311.652174L808.069565 311.652174z" p-id="1391" fill="#e6e6e6"></path></svg></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footnote">Some project pages might still being updated. Latest update: 2020-1-6</div>
+  <br><p></p>
+  <div class='container'>
+    <div class='col-xs-1'>
+    </div>
+    <div class='col-xs-10'>
+      <div class='row'>
+        <p>
+            Hi! Thank you for stopping by my site!
+        </p>
+        <p>
+            I am a fourth-year Bachelor student in EE department of <a href="https://ev.buaa.edu.cn/">Beihang University</a>(Beijing U of Aero & Astro), 
+            <a href="https://www.usnews.com/education/best-global-universities/electrical-electronic-engineering?page=2">TOP 20 EE worldwide</a>, and currently applying for graduate studies.
+            I ranked 1st in my beloved major of IC and System Design.
+            
+        </p>
+        <p>
+            During the past 3 years, I had the privilege of working with 
+            Prof.  <a href="https://scholar.google.com/citations?user=fa9SE3MAAAAJ">Marian Verhelst</a> (@<a href="https://www.kuleuven.be/english/">KU Leuven</a>), 
+            Prof. <a href="https://scholar.google.com/citations?user=iFoz4kQAAAAJ">Wei S. Zhao</a> (@<a href="https://ev.buaa.edu.cn/">Beihang U</a>),
+            and Dr. <a href="https://scholar.google.com/citations?hl=zh-CN&user=iUCjHhgAAAAJ">Liang Liu</a> (@<a href="https://www.lunduniversity.lu.se/">Lund U</a>). Currently,
+            I'm doing bachelor thesis with Prof. <a href="https://scholar.google.com/citations?user=zZ1QL4YAAAAJ&hl=en-US">Yongpan Liu</a>
+            (@ <a href="https://www.tsinghua.edu.cn/publish/thu2018en/index.html">Tsinghua U</a> & <a href="http://www.pi2star.com/">Pi2star Tech</a>).
+            
+        </p>
+        <p>
+            My research interests include Digital IC design, Software-hardware codesign, VLSI system and architecture design and its automation.
+        </p>
+        <!--<p>
+             As for fundings, I'm OK with applying for <a href="https://www.csc.edu.cn" >China Scholarship Council (CSC)</a> Ph.D. scholarship program if necessary, 
+             which will provide full support for 4-8 semesters and require 2-year-service back in China. 
+             Given my background, I'm almost certain to be awarded. 
+        </p> -->
+      </div>
+
+      <div class='row'>
+        <hr>
+      </div>
+
+    </div>
+    <div class='col-xs-1'>
+    </div>
+  </div>
+
+<!---------------------------------------------------------------research and projects-------------------------------------------------------------------->
+<table style="width:100%;max-width:1000px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="width:100%;vertical-align:middle">
+              <heading>Research and Projects </heading>
+              <br><br>
+              <p>
+              </p>
+              
+            </td>
+          </tr>
+        </tbody>
+        </table>
+        <!------------current----------->
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+                <subheading>Current</subheading>
+                <!------------1----------->
+                <tr>
+                    <td style="padding:20px;width:25%;vertical-align:middle">
+                    <div class="one">
+                        <!------no image------->
+                    </div>
+                    </td>
+                    <!------------->
+                    <td style="padding:20px;width:75%;vertical-align:middle">
+                    <a href="index.html">
+                        <projtitle>[Thesis]  DNN aided video decode chip based on RRAM @ Tsinghua</projtitle>
+                    </a>
+                    <br>
+                    <em>Area</em>: Digital IC design, VLSI architecture, video compression
+                    <br>
+                    <br>
+                    <p></p>
+                    <p>A software hardware codesign chip project for next generation video compression decoding. Optimising VCC by replacing block segmentation with NN method. </p>
+                    </td>
+                </tr>
+                <!------------2----------->
+                <tr>
+                    <td style="padding:20px;width:25%;vertical-align:middle">
+                    <div class="one">
+                            <img src="images/sparse_acc.png" width="200" height="auto" /> 
+                    </div>
+                    </td>
+                    <!------------->
+                    <td style="padding:20px;width:75%;vertical-align:middle">
+                    <a href="https://github.com/wangyipengw1p/diff_NN_demo">
+                        <projtitle>Mixed-Bit-Width Difference-Frame Sparse CNN Accelerator for Autopilot [demo construction for ISSCC 2020]  @ Tsinghua & Pi2star Tech</projtitle>
+                    </a>
+                    <br>
+                    <em>Area</em>: Digital IC design, VLSI architecture, machine learning
+                    <br>
+                    <br>
+                    <p></p>
+                    <p>At present, I've designed a mixed-bit-width sparse architecture for diff-processing in RTL and am analyzing the improvement using diff-frame processing. I aim to add reconfigurability later for such application that we need to switch between high performance and low energy mode. </p>
+                    </td>
+                </tr>
+
+            </tbody>
+            </table>
+        <!------------Past----------->
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+            <subheading>Past</subheading>
+            <!------------1----------->
+            <tr>
+                <td style="padding:20px;vertical-align:middle">
+                    <img src="images/micas.png" width="200" height="auto" /> 
+                </td>
+                <!------------->
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                <a href="https://github.com/wangyipengw1p/MICAS19summer">
+                    <projtitle>Depth map extraction using SpyNet and Sphere sweeping @ MICAS, KU Leuven</projtitle>
+                </a>
+                <br>
+                <em>Area</em>: FPGA design, VLSI architecture, machine learning, video (image) processing
+                <br>
+                <br>
+                <p></p>
+                <p>We implemented depth map extraction for panoramic photo mosaic in both NN method and geomatric method. Acquired high accuracy by SpyNet and high through put in Sphere sweeping. </p>
+                </td>
+            </tr>
+            <!------------2----------->
+            <tr>
+                    <td style="padding:20px;vertical-align:middle">
+                        <img src="images/stickeriv.png" width="200" height="auto" /> 
+                    </td>
+                    <!------------->
+                    <td style="padding:20px;width:75%;vertical-align:middle">
+                    <a href="http://www.pi2star.com/">
+                        <projtitle>STICKER-IV: a universal neural network processor @ Pi2star Tech. [non-open source]</projtitle>
+                    </a>
+                    
+                    <br>
+                    <em>Zhe Yuan, Jinshan Yue, Xiaolin Wang, Yipeng Wang, Jiangjiang Wang,Haobing Shi, Shawa Deng, Tongda Wu, Yongpan Liu</em>
+                    <br>
+                    <em>Area</em>: VLSI architecture, machine learning, video (image) processing
+                    <br>
+                    <br>
+                    <p></p>
+                    <p>We design and implemented a commercial universal neural network processor for  manufacturing industry. This is the Next generation main products of Pi2star Tech, Beijing.
+                    </p>
+                    </td>
+            </tr>
+            <!------------3----------->
+            <tr>
+                    <td style="padding:50px;vertical-align:middle">
+                        <img src="images/dac-sdc.png" width="130" height="auto" /> 
+                    </td>
+                    <!------------->
+                    <td style="padding:20px;width:75%;vertical-align:middle">
+                    <a href="https://github.com/wangyipengw1p/DAC-SDC-2019">
+                        <projtitle>Embedded system(TX2) implementation of neural network-based object detection for drones </projtitle>
+                    </a>
+                    
+                    <br>
+                    <em>Hao Lu, Yipeng Wang, Yichao Sun, Yuhang Yuan, Yuanqing Cheng, Ying Wang  </em>
+                    <br>
+                    <em>Area</em>: Objection Dectecion, Network Utilization
+                    <br>
+                    <br>
+                    <p></p>
+                    <p>We trained a network based on Yolov2 and ShuffleNet as a comprehensive solution for Objection detection on NVIDIA Tx2 platform. Our solution ranked 
+                            <a href="http://www.cse.cuhk.edu.hk/~byu/2019-DAC-SDC/ranking.html#final">
+                                8th place
+                            </a> in DAC-SDC 2019[Teamname: Ict-Jeejio-nobug]. I was in charge of the network training for Yolo and tridentNet(not used in final solution).
+                    </p>
+                    </td>
+            </tr>
+             <!------------4----------->
+             <tr>
+                    <td style="padding:20px;vertical-align:middle">
+                        <img src="images/pn-compensation.png" width="200" height="auto" /> 
+                    </td>
+                    <!------------->
+                    <td style="padding:20px;width:75%;vertical-align:middle">
+                    <a href="https://github.com/wangyipengw1p/PNcompensation">
+                        <projtitle>Phase noise(PN) compensation using dedicated pilot for mm-Wave OFDM with ASIC @ Lund U </projtitle>
+                    </a>
+                    
+                    <br>
+                    <em>Yipeng Wang, Minkeun Chuang, Liang Liu </em>
+                    <br>
+                    <em>Area</em>: Massive MIMO, wireless communication, Digital design
+                    <br>
+                    <br>
+                    <p></p>
+                    <p>We Implemented a hardware friendly algorithm for PN compensation using the dedicated pilot in 5G-OFDM. Through loosing the feedback loop and adding parallelism we achieved chieved the following implementation result: at least 500MHz for both 65nm balk and 28 nm ST FDSOI and at most 8 parallel; throughput reached at least 4 G complex num/s. I was in charge of the whole soft-hardware co-design design.</p>
+                    
+                </td>
+            </tr>
+            </tbody>
+        </table>
+      </td>
+    </tr>
+  </table>
+    <br>
+<!---------------------------------------------------------------Others-------------------------------------------------------------------->
+<table style="width:100%;max-width:1000px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+        <tr style="padding:0px">
+          <td style="padding:0px">
+            <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+                <tr>
+                <td style="width:100%;vertical-align:middle">
+                  <heading>Others</heading>
+                </td>
+              </tr>
+            </tbody>
+            </table>
+            <!------------current----------->
+            <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+                <tbody>
+                    <!------------1----------->
+                    <tr>
+                      <td style="padding:20px;vertical-align:middle">
+                        <img src="images/moke.png" width="200" height="auto" /> 
+                    </td>
+                        <!------------->
+                        <td style="padding:20px;width:75%;vertical-align:middle">
+                        <a href="index.html">
+                            <projtitle>Stress Regulation of Ferromagnetic Anisotropy for Non-volatile low energy memory @ Beihang U</projtitle>
+                        </a>
+                        <br>
+                        <em>Yipeng Wang, Jianteng Niu, Yuxuan Yao, Na lei, Wei S. Zhao</em>
+                        <br>
+                        <em>Area</em>: microelectronic device, solid-state
+                        <br>
+                        <br>
+                        <p></p>
+                        <p>	We achieved 7.9% anisotropy change in Co/Tb films for ultra-low energy memory. [Chinese University Students Innovation and Venture Project 2018]</p>
+                        </td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+          </td>
+        </tr>
+</table>
+      
+<!--------------------------------------------------------Project and coding examples in related field------------------------------------------------------------------>
+<table style="width:100%;max-width:1000px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+        <tr style="padding:0px">
+          <td style="padding:0px">
+            <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+                <tr>
+                <td style="width:100%;vertical-align:middle">
+                  <heading>Project and coding examples in related field</heading>
+                </td>
+              </tr>
+            </tbody>
+            </table>
+          </td>
+        </tr>
+    <br>
+</table>
+<br>
+<div class="codeax">
+  <a href="https://github.com/wangyipengw1p/diff_NN_demo">
+    A dedicated Sparse CNN Accelerator [SystemVerilog]  
+  </a>
+</div>
+<br>
+<div class="codeax">
+  <a href="https://github.com/wangyipengw1p/MICAS19summer">
+     Depth map extraction using Sphere sweeping [VHDL and Verilog]
+</a>
+</div>
+<br>
+<div class="codeax">
+  <a href="https://github.com/wangyipengw1p/zynq/tree/master/dual_cam_display">
+    Demo construction for a video system [ZYNQ block design, C/C++] 
+  </a>
+</div>
+<br>
+<div class="codeax">
+  <a href="https://github.com/wangyipengw1p/VHDL-Xgen">
+    A simple tool for altomatically generating VHDL code [Python]
+  </a>
+</div>
+<br>
+<div class="codeax">
+  <a href="https://github.com/wangyipengw1p/DAC-SDC-2019">
+    Machine learning framework utilization [Pytorch, Darknet]
+  </a>
+</div>
+<br>
+<br>
+<!-- Don't know why I am adding this, but ...               anyway, now I deleted ...
+<div class='row'>
+  <hr>
+</div>
+
+<div id="disqus_thread" style="padding-left: 20%; padding-right: 20%;"></div>
+<script>
+// discuss module
+var disqus_config = function () {
+this.page.url = 'https://wangyipengw1p.github.io/index.html';  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = 'https://wangyipengw1p.github.io/index.html'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://test-w1p.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+ 
+-->
+
+<div class="footnote">Profile photo @ Steckborn, Switzerland.
+</div> 
+<div class="footnote">Part of the html code from these two handsome guys: <a href="https://cs.stanford.edu/~myasu/">Michihiro Yasunaga</a>, <a href="https://jonbarron.info/">Jon Barron</a>.
+</div> 
+<br>
+</body>
+      
+
+</html>
+
+<!-- Localized -->
